@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class CashRegister
   
   attr_accessor :total, :discount, :items, :last_transaction_amount
@@ -38,3 +39,5 @@ class CashRegister
   end
   
 end
+=======
+>>>>>>> f42457865c5b05668f239d44d2df10f631214220
